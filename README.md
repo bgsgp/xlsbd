@@ -41,4 +41,5 @@
 
 ---
 
-> 📘 更多技术细节见仓库 [README](https://github.com/bgsgp/xlsbd)。
+© 2019-2026，丐帮集团第一院·物理版象棋开发与研究院™. All rights reserved.  
+Developed by：鬼狗子-Zero、清弦-Zero.
